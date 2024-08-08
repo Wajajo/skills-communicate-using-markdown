@@ -13,3 +13,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [X] Learn github
+- [ ] Python for next
+- [ ] the generative AI coming after that
