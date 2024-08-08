@@ -16,3 +16,9 @@ var myVar = "Hello, world!";
 - [X] Learn github
 - [ ] Python for next
 - [ ] the generative AI coming after that
+
+GitHub skill
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
